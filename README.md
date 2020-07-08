@@ -1,4 +1,4 @@
 
 # use
-# cd SDprobrute 
-# sh SDpro.sh
+# $cd SDprobrute 
+# $sh SDpro.sh
