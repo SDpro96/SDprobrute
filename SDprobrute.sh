@@ -2,6 +2,10 @@
 apt update -y
 apt upgrade -y
 pkg install python3
+apt install lolcat
+pkg install pip
+pip2 install requirements
+pip2 install mechanize 
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
