@@ -1,6 +1,4 @@
 #usr/bin/bash
-apt update -y
-apt upgrade -y
 pkg install python3
 apt install lolcat
 pkg install pip
