@@ -6,6 +6,7 @@ apt install lolcat
 pkg install pip
 pip2 install requirements
 pip2 install mechanize 
+pkg install figlet
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
@@ -47,16 +48,7 @@ sleep 1
 git clone https://github.com/FR13ND8/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
 clear
-echo '
-       __Hey guys :)
-   _  |@@|
-  / \ \--/ __
-  ) O|----|  |   __
- / / \ }{ /\ )_ / _\
- )/  /\__/\ \__O (__
-|/  (--/\--)    \__/
-/   _)(  )(_
-   ----------'| lolcat
+
 echo " "
 echo "\. ..Script By {SDpro}.../"| lolcat
 python2 crack.py
@@ -66,22 +58,6 @@ if [ $pil = 99 ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
-echo '
-       __Hey guys :)
-   _  |@@|
-  / \ \--/ __
-  ) O|----|  |   __
- / / \ }{ /\ )_ / _\
- )/  /\__/\ \__O (__
-|/  (--/\--)    \__/
-/   _)(  )(_
-   ----------'| lolcat
-echo " "
-figlet -f slant " B Y E "|lolcat
-sleep 2
-echo $cy"Pls Follow me"
-sleep 2
-echo $i"Pls Subscribe "
 
 
 sleep 2
