@@ -2,6 +2,8 @@
 pkg install python3
 apt install lolcat
 pkg install pip
+pip2 install request
+pip2 install mechanize
 pip2 install requirements
 pip2 install mechanize 
 pkg install figlet
